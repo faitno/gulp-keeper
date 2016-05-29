@@ -1,0 +1,20 @@
+{
+  "uglify": [
+    "bower_components/jquery/dist/jquery.min.js",
+    "bower_components/fastclick/lib/fastclick.js",
+    "bower_components/foundation/js/foundation/foundation.js",
+    "bower_components/foundation/js/foundation/foundation.topbar.js",
+    "bower_components/foundation/js/foundation/foundation.dropdown.js",
+    "bower_components/foundation/js/foundation/foundation.reveal.js",
+    "bower_components/foundation/js/foundation/foundation.tab.js",
+
+    "bower_components/autosize/dist/autosize.min.js",
+    "bower_components/slick.js/slick/slick.min.js",
+
+    "bower_components/photoswipe/dist/photoswipe.min.js",
+    "bower_components/photoswipe/dist/photoswipe-ui-default.min.js"
+  ],
+  "host": "domain.com_for_login_by_sftp",
+  "user": "user_to_login_by_sftp",
+  "passphrase": "pass_for_login_OR_passphrase_for_key"
+}
